@@ -1,4 +1,4 @@
-# web scrapping from nested website- https://www.pbs.gov.au/browse/medicine-listing using selenium web driver 
+# web scrapping from https://www.pbs.gov.au/browse/medicine-listing 
 
 ## General Information
 This project involves the analysis of various suburbs within New South Wales (NSW), Australia, with the aim of identifying the best investment opportunities in the real estate market. The initial phase of the project focused on gathering relevant information from the Australian Bureau of Statistics (ABS) regarding different suburbs in NSW.
